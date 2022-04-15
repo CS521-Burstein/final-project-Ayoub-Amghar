@@ -13,4 +13,5 @@ Extensions we have discussed to work on:
 3. Visually and descriptively compare your results to Zillow or other sites.
 * We have attached a script to download data-set programatically.
 
-We would like to know if this amount of work would be as what you expecting for 4 members. 
+Second Deliverable:
+We have pushed a jupyter file that has the code to load dataset into dataframe. we used Pandas and explored some its features such us execute SQL queries with our Dataframe to sort and filter data. We also used matplotlib.pyplot to draw a graph to visulize some data we need to analyze for other extentions. Please check jupyter file named 'delivery_2'.
