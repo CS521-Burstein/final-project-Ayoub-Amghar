@@ -12,3 +12,5 @@ Extensions we have discussed to work on:
 2. Compare different regression models
 3. Visually and descriptively compare your results to Zillow or other sites.
 * We have attached a script to download data-set programatically.
+
+We would like to know if this amount of work would be as what you expecting for 4 members. 
