@@ -15,3 +15,7 @@ Extensions we have discussed to work on:
 
 Second Deliverable:
 We have pushed a jupyter file that has the code to load dataset into dataframe. we used Pandas and explored some its features such us execute SQL queries with our Dataframe to sort and filter data. We also used matplotlib.pyplot to draw a graph to visulize some data we need to analyze for other extentions. Please check jupyter file named 'delivery_2'.
+
+Third deliverable:
+
+- we worked on Linear regression model, we have compared the year of 2007 and 2008 saleprices.
