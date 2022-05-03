@@ -1,6 +1,6 @@
 # final-project-Ayoub-Amghar
 final-project-Ayoub-Amghar created by GitHub Classroom
-#MEMBERS: Supawadee Phakdee, Clarence Audate, Marouan Boussif , Ayoub Amghar.
+#MEMBERS: Supawadee Phakdee,Clarence Audate, Marouan Boussif , Ayoub Amghar.
 
 
 Option 1: House Price Predictor.
