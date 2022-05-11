@@ -20,3 +20,14 @@ Third deliverable:
 
 we worked on Linear regression model, we have compared the year of 2007 and 2008 saleprices. We also worked on correlation. 
 
+Final submission:
+
+- We have worked on Correlation data set, also we have trained and test the data, 
+- we have visually & descriptively compared Zillow and our data to predict the market price in the range of 10 years.
+-PDF write-up that explains the purpose of this project and all the methods we used to analyze and compare the data.
+
+
+Have a nice summer break Professor, it was pleasure taking the class with you.
+
+
+
